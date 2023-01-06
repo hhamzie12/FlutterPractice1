@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        backgroundColor: Colors.purple[500],
+        backgroundColor: Colors.brown[500],
         child: const Text('click'),
       ),
     );
